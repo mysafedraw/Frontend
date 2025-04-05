@@ -9,36 +9,36 @@
 <table>
   <tr>
      <td align="center">
-      <img width=500px src="https://github.com/user-attachments/assets/8c0518ff-6a54-4974-88e8-1d706d82009f"/>
+      <img width=100% src="https://github.com/user-attachments/assets/8c0518ff-6a54-4974-88e8-1d706d82009f"/>
       <br/>
       <sub>랜딩페이지 & 캐릭터 선택</sub>
     </td>
     <td align="center">
-      <img width=450px" src="https://github.com/user-attachments/assets/1657e175-1e18-4e30-a349-90c8a8c62bec"/>
+      <img width=100%" src="https://github.com/user-attachments/assets/1657e175-1e18-4e30-a349-90c8a8c62bec"/>
       <br/>
       <sub>시나리오 선택 맵</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width=450px src="https://github.com/user-attachments/assets/fe018781-016d-46cc-a486-542bc258329c"/>
+      <img width=100% src="https://github.com/user-attachments/assets/1395c912-8e92-4864-95f9-91d2d431c4a5"/>
       <br/>
       <sub>게임방 접속 & 채팅</sub>
     </td>
     <td align="center">
-      <img width=450px" src="https://github.com/user-attachments/assets/b0693095-a958-4c04-84dd-68853439fc74"/>
+      <img width=100%" src="https://github.com/user-attachments/assets/b0693095-a958-4c04-84dd-68853439fc74"/>
       <br/>
       <sub>시나리오 & SAFE DRAW</sub>
     </td>
   </tr>
  <tr>
     <td align="center">
-      <img width=450px src="https://github.com/user-attachments/assets/57546ea8-5473-4f7e-abd3-90e54ae1fbbc"/>
+      <img width=100% src="https://github.com/user-attachments/assets/57546ea8-5473-4f7e-abd3-90e54ae1fbbc"/>
       <br/>
       <sub>시나리오 상호작용</sub>
     </td>
     <td align="center">
-      <img width=450px src="https://github.com/user-attachments/assets/76a9d8d4-fdd4-4aec-a782-5dd0b55c190d"/>
+      <img width=100% src="https://github.com/user-attachments/assets/76a9d8d4-fdd4-4aec-a782-5dd0b55c190d"/>
       <br/>
       <sub>실시간 토론 및 투표</sub>
     </td>
