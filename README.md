@@ -5,7 +5,6 @@
 
 <div align="left">
 <h2>시연 영상</h2>
-<h3>방장 페이지</h3>
 <table>
   <tr>
      <td align="center">
