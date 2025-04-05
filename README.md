@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+<h1>내가 그린 안전 그림</h1>
+<h3>AI와 AR 기술을 활용하여 어린이들이 재난 상황에서 대처 능력을 배울 수 있는 체험형 안전 교육 서비스</h3>
+<br />
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="left">
+<h2>시연 영상</h2>
+<h3>방장 페이지</h3>
+<table>
+  <tr>
+     <td align="center">
+      <img width=500px src="https://github.com/user-attachments/assets/8c0518ff-6a54-4974-88e8-1d706d82009f"/>
+      <br/>
+      <sub>랜딩페이지 & 캐릭터 선택</sub>
+    </td>
+    <td align="center">
+      <img width=450px" src="https://github.com/user-attachments/assets/1657e175-1e18-4e30-a349-90c8a8c62bec"/>
+      <br/>
+      <sub>시나리오 선택 맵</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width=450px src="https://github.com/user-attachments/assets/fe018781-016d-46cc-a486-542bc258329c"/>
+      <br/>
+      <sub>게임방 접속 & 채팅</sub>
+    </td>
+    <td align="center">
+      <img width=450px" src="https://github.com/user-attachments/assets/b0693095-a958-4c04-84dd-68853439fc74"/>
+      <br/>
+      <sub>시나리오 & SAFE DRAW</sub>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <img width=450px src="https://github.com/user-attachments/assets/57546ea8-5473-4f7e-abd3-90e54ae1fbbc"/>
+      <br/>
+      <sub>시나리오 상호작용</sub>
+    </td>
+    <td align="center">
+      <img width=450px src="https://github.com/user-attachments/assets/76a9d8d4-fdd4-4aec-a782-5dd0b55c190d"/>
+      <br/>
+      <sub>실시간 토론 및 투표</sub>
+    </td>
+  </tr>
+</table>
+</div>
